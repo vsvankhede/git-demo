@@ -1,3 +1,3 @@
 interface Planets {
-    fun name(name: String)
+    fun name()
 }
